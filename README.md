@@ -1,10 +1,18 @@
-# devops
+# XPER 2019 스터디 2차 컨퍼런스 - DevOps -
 
-## event page
-https://festa.io/events/495/
+<br/>
+
+## 이벤트 페이지
+
+- https://festa.io/events/495/
 
 
-XPER 2019 스터디 2차 컨퍼런스 - DevOps -
+
+<br/>
+
+
+
+## 세부 내역
 
 XPER 2019 스터디에서 2019년 1월부터 4월 9일까지 약 3개월 동안 Martin Fowler의 [Refactoring : Improving the Design of Existing Code] 에 대한 스터디를 진행하고, 워크숍으로 공유를 했습니다. (https://avengerschool.com/courses/20190413)
 
@@ -19,7 +27,8 @@ XPER 2019 스터디 2 차로 6월에서 9월까지 DevOps를 주제로 스터디
 인원 : 40명
 
 
-타임테이블
+
+**타임테이블**
 12:30 - 13:00 등록
 13:00 - 13:20 아이스 브레이킹
 13:20 - 13:50 김두진 Docker 소개 및 체험
@@ -29,10 +38,16 @@ XPER 2019 스터디 2 차로 6월에서 9월까지 DevOps를 주제로 스터디
 15:20 - 16:30 오재훈 ATDD 와 TDD 를 이용한 Rest API 개발 ( with node.js )
 16:30 - 17:00 회고, Q&A
 
-공지사항
+
+
+**공지사항**
 강의에 실습이 있습니다. 노트북을 지참해 주세요.
 참가 취소를 하는 경우, 추가 등록자를 위해 아래 전화번로나 메일로 꼭 알려주세요!
 주차는 지원하지 않습니다. 대중교통이나 주차장 앱 이용하면 좋습니다.
+
+
+
+**연락처**
 
 박계홍 010-2256-8959
 gyehong.park@gmail.com
