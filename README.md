@@ -34,7 +34,7 @@ XPER 2019 스터디 2 차로 6월에서 9월까지 DevOps를 주제로 스터디
 
 13:00 - 13:20 아이스 브레이킹
 
-13:20 - 13:50 김두진 Docker 소개 및 체험
+13:20 - 13:50 김두진 [Docker 소개 및 체험](https://github.com/doojin88/docker/blob/master/docs/docker.md)
 
 13:50 - 14:30 김성식 Bitrise 로 Android DevOps 한번에 끝내기
 
