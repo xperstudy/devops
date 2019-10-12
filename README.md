@@ -33,7 +33,7 @@ XPER 2019 스터디 2 차로 6월에서 9월까지 DevOps를 주제로 스터디
 13:00 - 13:20 아이스 브레이킹  
 13:20 - 13:50 김두진 [Docker 소개 및 체험](https://github.com/doojin88/docker/blob/master/docs/docker.md)   
 13:50 - 14:30 김성식 [Bitrise 로 Android DevOps 한번에 끝내기](https://bitbucket.org/examples_/android-hello-world/src/master/README.md)  
-14:30 - 15:00 박세종 [도커를 활용한 자바 통합테스트 환경 구성하기](https://docs.google.com/presentation/d/1fyPOMzdWBkdHBSJ3BtGdZSMPbXpOFnZz29tD25ZFXCk), & [code](https://github.com/devsejong/integration-test-with-testcontainer)  
+14:30 - 15:00 박세종 [도커를 활용한 자바 통합테스트 환경 구성하기](https://docs.google.com/presentation/d/1fyPOMzdWBkdHBSJ3BtGdZSMPbXpOFnZz29tD25ZFXCk) & [code](https://github.com/devsejong/integration-test-with-testcontainer)  
 15:00 - 15:20 휴식  
 15:20 - 16:30 오재훈 ATDD 와 TDD 를 이용한 Rest API 개발 ( with node.js )  
 16:30 - 17:00 회고, Q&A  
